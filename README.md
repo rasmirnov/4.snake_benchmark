@@ -1,1 +1,1 @@
-# snake_benchmark
+Time and memory benchmarking of key functions from **chooseR** and **sclust** tool. These functions are the metrics for cluster stability assessment which are called *silhouette score* and *jaccard index*, for chooseR and sclust respectively.
